@@ -1,2 +1,4 @@
 This is the file b.txt
 1. b
+2. c
+3. d
